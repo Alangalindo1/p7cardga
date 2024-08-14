@@ -1,4 +1,4 @@
-# p7_cardgalindo
+# p7_TarjetaGalindo
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
